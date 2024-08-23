@@ -1,4 +1,6 @@
-Hi! My name is Jose Felipe Dalcin Stieven, I'm a software engineering student at [École 42](https://42.fr/en/homepage/) in [Sao Paulo](https://www.42sp.org.br/)).
+Hello and welcome to my portfolio! 
+
+I'm a software engineering student at [École 42](https://42.fr/en/homepage/) in [Sao Paulo](https://www.42sp.org.br/) campus.
 
 Passionate, innovative, and endlessly curious, I thrive on driving progress and tackling challenges head-on. With a firm belief that no problem is too big to solve, I am dedicated to continuous learning and growth. Let's connect and unleash our potential together.
 
@@ -12,7 +14,6 @@ Soft Skills
  - Ability to effectively communicate complex technical concepts
  - Pair-programming and peer-to-peer evaluation
  - Problem-solving in highly challenging scenarios
-
 
 
 ---
@@ -29,7 +30,7 @@ Soft Skills
 <div align="left">
     
 ![Static Badge](https://img.shields.io/badge/contact%20me-%23555555?style=for-the-badge)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=ygor.sena@alumni.usp.br&tf=cm)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js.felipe@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josfelipe)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1276190021992452210)
 
