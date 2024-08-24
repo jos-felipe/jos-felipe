@@ -1,7 +1,8 @@
 Hello and welcome to my portfolio! 
 
-These projects belong to Écolé 42 common-core syllabus, I invite you to make a tour them to know better my work. 
-Feel free to contact me
+These projects belong to Écolé 42 common-core syllabus, I invite you to take a tour of them to get to know my work better. 
+
+Feel free to contact me:
 <div align="center">
     
 [![Résumé (CV)](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0d1117?style=for-the-badge)](https://drive.google.com/file/d/1-UIEysd6_M568JMJC4pJT1gBPBWQUCY6/view)
