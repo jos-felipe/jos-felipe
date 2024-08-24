@@ -14,25 +14,10 @@ Feel free to contact me:
 
 ---
 
-Here are some of my assets:
-
-Hard Skills
- - Unix and C Programming Language
- - Development Environments: GNU/Linux, Shell, Visual Studio Code
- - Technical Tools: Git, Valgrind, GDB
- - CI/CD automation: Make, Shell Script, Python, Github Actions, VBA
-
-Soft Skills
- - Able to create innovative solutions to unprecedented problems where no previous solution were available
- - Capable of effectively explain complex technical concepts in a simple communication
- - Self-learning and autonomous problem-solving posture
-
----
-
 - I've worked on a nuclear submarine project 
-- Former Brazilian Navy lieutenant 
-- Bachelor degree on Electrical Engeneering from UFSC 
-- Fun fact: I'm 8o ryu grade on ninjustu marcial art 
+- Former Brazilian Navy lieutenant
+- Bachelor degree on Electrical Engineering from UFSC
+- Fun fact: 🥷 I'm 7th kyu on Ninjutsu
 
 ---
 <div align="center">
