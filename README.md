@@ -21,7 +21,7 @@ Hard Skills
  - CI/CD automation: Make, Shell Script, Python, Github Actions, VBA
 
 Soft Skills
- - Able to create innovative solutions to unprecedented problems where no previous solution were available
+ - Able to create innovative solutions to unprecedented problems
  - Capable of effectively explain complex technical concepts in a simple communication
  - Self-learning and autonomous problem-solving posture
 
