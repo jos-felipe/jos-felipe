@@ -27,6 +27,12 @@ Soft Skills
  - Capable of effectively explain complex technical concepts in a simple communication
  - Self-learning and autonomous problem-solving posture
 
+---
+
+- I've worked on a nuclear submarine project 
+- Former Brazilian Navy lieutenant 
+- Bachelor degree on Electrical Engeneering from UFSC 
+- Fun fact: I'm 8o ryu grade on ninjustu marcial art 
 
 ---
 <div align="center">
