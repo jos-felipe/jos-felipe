@@ -1,6 +1,6 @@
 Hello and welcome to my portfolio! 
 
-These projects belong to Écolé 42 common-core syllabus, I invite you to take a tour of them to get to know my work better. 
+These projects belong to Écolé 42 common-core syllabus, I invite you to take a look at them to get to know my work better. 
 
 Feel free to contact me:
 <div align="center">
@@ -34,17 +34,6 @@ Soft Skills
             height=195/>
 </div>
 
----
-<div align="left">
-    
-![Static Badge](https://img.shields.io/badge/contact%20me-%23555555?style=for-the-badge)
-[![Résumé (CV)](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0d1117?style=for-the-badge)](https://drive.google.com/file/d/1-UIEysd6_M568JMJC4pJT1gBPBWQUCY6/view)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:js.felipe@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josfelipe)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1276190021992452210)
-
-
-</div>
 
 
 
