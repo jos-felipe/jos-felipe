@@ -1,6 +1,6 @@
 Hello and welcome to my portfolio! 
 
-Passionate, innovative, and endlessly curious, I thrive on driving progress and tackling challenges head-on. With a firm belief that no problem is too big to solve, I am dedicated to continuous learning and growth. Let's connect and unleash our potential together.
+These projects belong to Écolé 42 common-core syllabus, I invite you to make a tour them to know better my work. Feel free to contact me.
 
 Hard Skills
  - Unix and C Programming Language
