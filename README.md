@@ -12,6 +12,10 @@ Feel free to contact me:
 
 </div>
 
+---
+
+Here are some of my assets:
+
 Hard Skills
  - Unix and C Programming Language
  - Development Environments: GNU/Linux, Shell, Visual Studio Code
@@ -19,9 +23,9 @@ Hard Skills
  - CI/CD automation: Make, Shell Script, Python, Github Actions, VBA
 
 Soft Skills
- - Ability to effectively communicate complex technical concepts
- - Pair-programming and peer-to-peer evaluation
- - Problem-solving in highly challenging scenarios
+ - Able to create innovative solutions to unprecedented problems where no previous solution were available
+ - Capable of effectively explain complex technical concepts in a simple communication
+ - Self-learning and autonomous problem-solving posture
 
 
 ---
