@@ -14,8 +14,6 @@ Feel free to contact me:
 
 ---
 
-Here are some of my assets:
-
 Hard Skills
  - Unix and C Programming Language
  - Development Environments: GNU/Linux, Shell, Visual Studio Code
@@ -27,7 +25,7 @@ Soft Skills
  - Capable of effectively explain complex technical concepts in a simple communication
  - Self-learning and autonomous problem-solving posture
 
-Background:
+Background
  - I've worked on a nuclear submarine project 
  - Former Brazilian Navy Lieutenant
  - Bachelor degree on Electrical Engineering from UFSC
