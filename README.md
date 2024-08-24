@@ -17,7 +17,8 @@ Feel free to contact me:
 - I've worked on a nuclear submarine project 
 - Former Brazilian Navy lieutenant
 - Bachelor degree on Electrical Engineering from UFSC
-- Fun fact: 🥷 I'm 7th kyu on Ninjutsu
+- Fun fact: I'm 7th kyu on Ninjutsu
+
 
 ---
 <div align="center">
