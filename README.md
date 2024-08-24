@@ -1,6 +1,6 @@
 Hello and welcome to my portfolio! 
 
-These projects belong to Écolé 42 common-core syllabus, I invite you to take a look at them to get to know my work better. 
+These projects belong to Écolé 42 common core syllabus, I invite you to take a look at them to get to know my work better and and track my progression to become an excellent software engineer.
 
 Feel free to contact me:
 <div align="center">
