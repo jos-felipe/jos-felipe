@@ -26,10 +26,12 @@ Soft Skills
  - Self-learning and autonomous problem-solving posture
 
 Background
- - I've worked on a nuclear submarine project 
- - Former Brazilian Navy Lieutenant
- - Bachelor degree on Electrical Engineering from UFSC
-- Fun fact: I'm 7th kyu on Ninjutsu
+ - Former member of the engineering team of the Brazilian Nuclear Submarine project
+ - Veteran Lieutenant of the Brazilian Navy
+ - Bachelor degree on Electrical Engineering from Universidade Federal de Santa Catarina
+
+Fun fact
+ - I'm 7th kyu on Ninjutsu
 
 ---
 <div align="center">
