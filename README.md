@@ -15,10 +15,10 @@ Feel free to contact me:
 ---
 
 Hard Skills
- - Unix and C Programming Language
- - Development Environments: GNU/Linux, Shell, Visual Studio Code
- - Technical Tools: Git, Valgrind, GDB
- - CI/CD automation: Make, Shell Script, Python, Github Actions, VBA
+ - Unix, C/C++ and Python Programming Language
+ - Development Environments: GNU/Linux, Shell, VS Code
+ - Technical Tools: Git, Valgrind, GDB, Github Projects
+ - CI/CD automation: Make, Shell Script, Github Actions
 
 Soft Skills
  - Able to create innovative solutions to unprecedented problems
