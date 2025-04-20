@@ -5,7 +5,7 @@ These projects belong to Écolé 42 common core syllabus, I invite you to take a
 Feel free to contact me:
 <div align="center">
     
-[![Résumé (CV)](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0d1117?style=for-the-badge)](https://drive.google.com/file/d/1-UIEysd6_M568JMJC4pJT1gBPBWQUCY6/view)
+[![CV](https://img.shields.io/badge/R%C3%A9sum%C3%A9-0d1117?style=for-the-badge)](https://docs.google.com/document/d/1AfdSO0pOa3DFDDF-me_SFOFllfQ-Tf9dz5W5jxLeXOE/edit?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=envelope&logoColor=white)](mailto:jfelipedalcin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josfelipe)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1276190021992452210)
