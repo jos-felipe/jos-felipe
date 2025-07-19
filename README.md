@@ -1,6 +1,6 @@
 Hello and welcome to my portfolio! 
 
-These projects belong to Écolé 42 common core syllabus, I invite you to take a look at them to get to know my work better and and track my progression to become an excellent software engineer.
+These projects belong to Écolé 42 common core syllabus, I invite you to take a look at them to get to know my work better and track my progression to become an excellent software engineer.
 
 Feel free to contact me:
 <div align="center">
@@ -15,9 +15,9 @@ Feel free to contact me:
 ---
 
 Hard Skills
- - Unix, C/C++ and Python Programming Language
- - Development Environments: GNU/Linux, Shell, VS Code
- - Technical Tools: Git, Valgrind, GDB, Github Projects
+ - C/C++ and Python Programming Language
+ - Development Environments: Linux, Git, Bash
+ - AI/ML, Agents, MCP Servers 
  - CI/CD automation: Make, Shell Script, Github Actions
 
 Soft Skills
@@ -31,7 +31,7 @@ Background
  - Bachelor degree on Electrical Engineering from Universidade Federal de Santa Catarina
 
 Fun fact
- - I'm 7th kyu on Ninjutsu
+ - I'm 5th kyu on Ninjutsu
 
 ---
 <div align="center">
